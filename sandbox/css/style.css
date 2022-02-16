@@ -1,0 +1,42 @@
+h1 {
+    color: black;
+    background-color: blueviolet;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: white;
+    background-color: violet;
+    font-family: sans-serif;
+}
+
+p {
+    color: gray;
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 20px;
+    color: black;
+}
+
+.test-class {
+    color: green;
+    background-color: yellow;
+    font-family: sans-serif;
+    font-size: 18px;
+    padding: 10px;
+    border: 4px dashed black;
+    border-radius: 4px;
+}
+
+#test-id {
+    color: black;
+    background-color: red;
+    padding: 10px;
+    border-radius: 4px;
+    font-family: sans-serif;
+}
